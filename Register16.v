@@ -1,9 +1,9 @@
 module Register16(
-	in,
-	out,
-	clk,
+    in,
+    out,
+    clk,
     rst,
-	en
+    en
 );
 
 /* Parameters */
